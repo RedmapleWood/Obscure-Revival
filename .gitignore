@@ -1,0 +1,64 @@
+# gradle
+
+.gradle/
+build/
+out/
+classes/
+
+# eclipse
+
+*.launch
+
+# idea
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# vscode
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# macos
+
+*.DS_Store
+
+# fabric
+
+run/
+
+# project specific
+*.exe
+ASCII.txt
+normalize-bats.ps1
+runtime/
+.gradle_repo/
+
+# java
+
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+
+# AI Agents & Tools
+.claude/
+.cursor/
+.cursorrules
+.cursorignore
+.cursorindexingignore
+.gemini/
+.geminiignore
+.aiexclude
+.opencode/
+.aider/
+.aiderignore
+.continue/
+.cline/
+.roo/
+.trace/
