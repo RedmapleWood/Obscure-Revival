@@ -1,7 +1,7 @@
 # Obscure-Revival
 <!-- Logo 区域 -->
 <p align="center">
-  <img src="icon.png" alt="Obscure Revival Logo" width="200">
+  <img src="desktop\icon.png" alt="Obscure Revival Logo" width="200">
 </p>
 
 <!-- 徽章组 -->
