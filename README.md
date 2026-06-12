@@ -1,8 +1,7 @@
+
 # Obscure-Revival
 <!-- Logo 区域 -->
-<p align="center">
-  <img src="desktop\icon.png" alt="Obscure Revival Logo" width="200">
-</p>
+<img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/039c6f91-e9e2-4d06-86b1-5d8cc8d93fb1" />
 
 <!-- 徽章组 -->
 <p align="center">
@@ -52,7 +51,7 @@ Maps should do more than show where you’ve been. We’re developing a system w
 ## 📥 Installation
 
 1.  Ensure you have **Fabric Loader 0.18.4+** installed for Minecraft 1.21.11.
-2.  Download the latest `.jar` from the [Releases page](你的链接).
+2.  Download the latest `.jar` from the Modrinth.
 3.  Place it into your `.minecraft/mods` folder.
 4.  **Important:** This mod must be installed on **both the client and the server** to function correctly.
 
