@@ -32,14 +32,14 @@ This isn’t a mod about adding more for the sake of more. It’s a **revival mo
 ### ⚔️ Chainmail Armor Redux *(Implemented)*
 Chainmail armor now specializes in **slash-deflection defense**. Its protection value **grows dynamically** the longer you survive a fight—rewarding endurance over brute force.
 
+<p align="center">
+<img width="600" height="450" alt="锁链甲演示" src="https://github.com/user-attachments/assets/7adee891-dbe1-40b6-983e-a7c58c251fc1" />
+</p>
+
 > *No longer the weak link. Chainmail becomes the armor of tenacity.*
 
 ### 🫧 Echoes of the Deep Dark: Echo Shards *(Planned)*
 Sculk is a living network. We aim to give Echo Shards the power to **sever the bond** between sculk sensors, shriekers, and the Warden—or even **deflect sonic blasts** back at their source.
-
-<p align="center">
-<img width="600" height="450" alt="锁链甲演示" src="https://github.com/user-attachments/assets/7adee891-dbe1-40b6-983e-a7c58c251fc1" />
-</p>
 
 > *The Warden’s own echo, turned against it.*
 
