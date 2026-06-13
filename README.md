@@ -36,6 +36,10 @@ Chainmail armor now specializes in **slash-deflection defense**. Its protection 
 ### 🫧 Echoes of the Deep Dark: Echo Shards *(Planned)*
 Sculk is a living network. We aim to give Echo Shards the power to **sever the bond** between sculk sensors, shriekers, and the Warden—or even **deflect sonic blasts** back at their source.
 
+<p align="center">
+<img width="600" height="450" alt="锁链甲演示" src="https://github.com/user-attachments/assets/7adee891-dbe1-40b6-983e-a7c58c251fc1" />
+</p>
+
 > *The Warden’s own echo, turned against it.*
 
 ### 🏹 The Fletching Table’s True Purpose *(Planned)*
