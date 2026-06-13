@@ -1,5 +1,3 @@
-<img width="600" height="450" alt="锁链甲演示" src="https://github.com/user-attachments/assets/5ea5bb4e-c0a4-4988-bc7f-a6b8d382f971" />
-
 # Obscure-Revival
 <!-- Logo 区域 -->
 <p align="center">
