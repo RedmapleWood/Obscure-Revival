@@ -1,7 +1,8 @@
+
 # Obscure-Revival
 <!-- Logo 区域 -->
 <p align="center">
-  <img width="400" height="400" alt="Obscure Revival Logo" src="https://github.com/user-attachments/assets/039c6f91-e9e2-4d06-86b1-5d8cc8d93fb1">
+  <img width="400" height="400" alt="main logo" src="https://github.com/user-attachments/assets/7f005e1c-0cab-4ee7-903f-9473c0d870e9" />
 </p>
 
 <!-- 徽章组 -->
