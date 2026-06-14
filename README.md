@@ -66,7 +66,7 @@ Maps should do more than show where you’ve been. We’re developing a system w
 
 ## 📜 Modpack & Usage Policy
 
-- ✅ **Non-commercial modpacks:** You are free to include this mod in any non-commercial modpack. If you let me know, I’d be thrilled—but it’s never required.
+- ✅ **Non-commercial modpacks:** You are free to include this mod in any non-commercial modpack. Come up with a better idea about coding? If you let me know, I’d be thrilled—but it’s never required.
 - ❌ **Commercial use is strictly prohibited.** This includes, but is not limited to: selling modpacks, bundling as part of a paid mod, or profiting via advertisements or direct download links.
 
 ---
