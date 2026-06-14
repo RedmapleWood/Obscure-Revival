@@ -79,7 +79,7 @@ I’m a university student, and modding is a passion project for me. **Academics
 
 ## 🤝 Contributing & Support
 
-- **Revival Proposals:** Have a forgotten item or mechanic you’d love to see revived? Open an Issue with `[Revival Proposal]` in the title.
+- **Revival Proposals:** Have a forgotten item or mechanic you’d love to see revived? Come up with a better idea about coding? Open an Issue with `[Revival Proposal]` in the title.
 - **Bug Reports:** Please include your `latest.log` file and clear steps to reproduce. Generic reports are hard to act on.
 - **Languages:** Want to help translate Obscure Revival into your language? Pull Requests for localization files are warmly welcomed.
 
