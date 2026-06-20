@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "obscure_revival",
+	"version": "${version}",
+	"name": "Obscure Revival",
+	"description": "Tired of yet another \"OP tool\" mod?\nHere,forgotten items,dusty events and other elements are given a second life,and you will witness the moment they truly shine!",
+	"authors": [
+		"Redmaple Wood"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/obscure-revival",
+		"issues": "https://github.com/RedmapleWood/Obscure-Revival/issues",
+		"sources": "https://github.com/RedmapleWood/Obscure-Revival"
+
+	},
+	"license": "CC BY-NC-SA 4.0",
+	"icon": "assets/obscure_revival/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "redmaple.obscurerevival.ObscureRevival"
+		],
+		"client": [
+			"redmaple.obscurerevival.ObscureRevivalClient"
+		]
+	},
+	"mixins": [
+		"obscure_revival.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
