@@ -6,10 +6,10 @@
 
 <!-- 徽章组 -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Minecraft-1.21.11-2d2d2d?style=flat-square" alt="Minecraft 版本">
-  <img src="https://img.shields.io/badge/Loader-Fabric_0.18.4+-%23d5c6a0?style=flat-square" alt="Fabric 版本">
-  <img src="https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-%23a6a6a6?style=flat-square" alt="开源协议">
-  <img src="https://img.shields.io/badge/Side-Client_&_Server-%234c4c4c?style=flat-square" alt="安装位置">
+  <img src="https://img.shields.io/badge/Minecraft-1.21.11-2d2d2d?style=flat-square" alt="Minecraft Version">
+  <img src="https://img.shields.io/badge/Loader-Fabric_0.18.4+-%23d5c6a0?style=flat-square" alt="Fabric Version">
+  <img src="https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-%23a6a6a6?style=flat-square" alt="Open Source License">
+  <img src="https://img.shields.io/badge/Side-Client_&_Server-%234c4c4c?style=flat-square" alt="Operating Environment">
 </p>
 
 <!-- 英文区块 -->
@@ -31,7 +31,7 @@ This isn’t a mod about adding more for the sake of more. It’s a **revival mo
 Chainmail armor now specializes in **slash-deflection defense**. Its protection value **grows dynamically** the longer you survive a fight—rewarding endurance over brute force.
 
 <p align="center">
-<img width="600" height="450" alt="锁链甲演示" src="https://github.com/user-attachments/assets/7adee891-dbe1-40b6-983e-a7c58c251fc1" />
+<img width="600" height="450" alt="锁链甲演示" src="https://github.com/user-attachments/assets/16166f55-91a6-4ce3-b75e-52d67d90a538" />
 </p>
 
 > *No longer the weak link. Chainmail becomes the armor of tenacity.*
@@ -73,7 +73,7 @@ Maps should do more than show where you’ve been. We’re developing a system w
 
 ## ⚠️ Disclaimer
 
-I’m a university student, and modding is a passion project for me. **Academics always come first.** Maintenance may be inconsistent, and updates may be slow. Thank you for your patience and understanding.
+I’m a university student, and modding is a passion project for me. **Academics always come first.** Maintenance may be inconsistent, and updates may be slow. The code may contain no cutting-edge techniques or ingenious architecture, but it is the author's honest work. Choosing the ND clause is not born from technical arrogance, but from the desire to find a reassuring balance between open exchange and protecting one's creative efforts.Thank you for your patience and understanding.
 
 ---
 
@@ -87,7 +87,23 @@ I’m a university student, and modding is a passion project for me. **Academics
 
 ## 📜 License
 
-This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.  
-You are free to share and adapt the work, provided you give appropriate credit, do not use it commercially, and distribute any adaptations under the same license.
+This project is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.
 
----
+**You are free to:**
+- ✅ **Share** — Copy and redistribute the material in any medium or format.
+- ✅ **Study & Reference** — View and read the source code, and offer suggestions for improvement to the author.
+- ✅ **Soft Integration & API Integration** — Other developers may interact with this mod technically (soft integration) through APIs, events, reflection, etc., without requiring it as a hard dependency.
+- ✅ **Non-Commercial Modpacks** — Include this mod in non-commercial modpacks. If you let the author know, they would be thrilled—but this is never required.
+
+**Under the following terms:**
+- ⚖️ **Attribution** — You must give appropriate credit to the original author, provide a link to this license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the author endorses you or your use.
+- 🚫 **NonCommercial** — You may not use the material for **any commercial purpose**. This includes, but is not limited to: selling modpacks, bundling this mod as part of a paid product, profiting through advertisements or direct download links, or distributing this mod in any context that requires payment or generates revenue.
+- 🚫 **NoDerivatives** — If you remix, transform, or build upon the material, you **may not distribute** the modified material. This means:
+  - ❌ You may not create "modified versions," "enhanced editions," or "fixed builds" of this mod and redistribute them.
+  - ❌ You may not copy the source code of this mod into another mod project.
+  - ❌ You may not replicate the core gameplay mechanics or features of this mod in another mod.
+
+**A Special Note on Code Reference:**
+> The author understands the boundary between learning from code and outright copying. You are warmly welcomed to read this project's source code to learn about Fabric mod development, draw inspiration, or discuss implementation ideas within the community. However, please **implement what you learn in your own way**—do not simply copy-paste or make superficial modifications and publish the result as your own work. If you are ever unsure whether something crosses the line, feel free to ask the author via Issues.
+
+**Full License Text:** [https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
