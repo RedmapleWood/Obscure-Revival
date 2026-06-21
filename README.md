@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft-1.21.11-2d2d2d?style=flat-square" alt="Minecraft Version">
   <img src="https://img.shields.io/badge/Loader-Fabric_0.18.4+-%23d5c6a0?style=flat-square" alt="Fabric Version">
-  <img src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-%23a6a6a6?style=flat-square" alt="Open Source License">
+  <img src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-%23a6a6a6?style=flat-square" alt="开源协议">
   <img src="https://img.shields.io/badge/Side-Client_&_Server-%234c4c4c?style=flat-square" alt="Operating Environment">
 </p>
 
