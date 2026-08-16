@@ -17,6 +17,10 @@
 <p align="center">
   <em>"Not all brilliance is born to shine. Some only need a new stage."</em>
 </p>
+
+## 📌 **Development Status**  
+> Active Working: `0.1.1-Alpha` · Source code will be made public with the full `0.1.1` stable release.
+
 <p align="center">
   <strong>Obscure Revival</strong> is a Minecraft mod dedicated to unearthing forgotten, overlooked, and underutilized elements of the game—and giving them a stage to truly shine.
 </p>
