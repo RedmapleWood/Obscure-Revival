@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "redmaple.obscurerevival.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "CrossbowPierceArrowMixin",
+    "ItemStackMixin",
+    "LivingEntityMixin",
+    "PlayerEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+	}
+}

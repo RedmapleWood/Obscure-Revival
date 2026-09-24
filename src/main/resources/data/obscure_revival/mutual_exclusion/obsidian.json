@@ -1,0 +1,9 @@
+{
+  "center": "minecraft:obsidian",
+  "incompatible_with": [
+    "minecraft:phantom_membrane",
+    "minecraft:breeze_rod",
+    "minecraft:blaze_rod",
+    "minecraft:wind_charge"
+  ]
+}

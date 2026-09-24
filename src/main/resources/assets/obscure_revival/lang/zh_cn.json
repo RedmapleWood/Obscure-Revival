@@ -1,0 +1,22 @@
+{
+  "enchantment.obscure_revival.keloid": "战痕应激",
+  "container.obscure_revival.fletching_table": "改装箭矢",
+  "container.obscure_revival.fletching_table.add_arrow": "放入箭矢",
+  "container.obscure_revival.fletching_table.add_arrowhead": "放入箭头原材料",
+  "container.obscure_revival.fletching_table.add_shaft": "放入箭杆原材料",
+  "container.obscure_revival.fletching_table.add_fletch": "放入箭羽原材料",
+  "item.obscure_revival.modified_arrow": "改装箭",
+  "subtitles.obscure_revival.fletching_table.take_result": "制箭台：使用",
+  "tooltip.obscure_revival.arrow_special.underwater_no_drag": "水下无阻",
+  "tooltip.obscure_revival.arrow_special.wind_push": "风压",
+  "tooltip.obscure_revival.arrow_special.armor_pierce": "穿甲",
+  "tooltip.obscure_revival.arrow_special.drag_reduce": "阻力减免",
+  "tooltip.obscure_revival.arrow_special.light": "轻盈",
+  "tooltip.obscure_revival.arrow_special.damage_increase": "伤害提升",
+  "tooltip.obscure_revival.arrow_special.accuracy_boost": "散射缩减",
+  "tooltip.obscure_revival.fletching_table.after": "改装%s后：",
+  "tooltip.obscure_revival.fletching_table.fired_after": "被发射时：",
+  "tooltip.obscure_revival.fletching_table.slot_name.arrowhead": "箭头",
+  "tooltip.obscure_revival.fletching_table.slot_name.shaft": "箭杆",
+  "tooltip.obscure_revival.fletching_table.slot_name.fletch": "箭尾"
+}

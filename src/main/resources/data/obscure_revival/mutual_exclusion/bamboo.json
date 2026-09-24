@@ -1,0 +1,7 @@
+{
+  "center": "minecraft:bamboo",
+  "incompatible_with": [
+    "minecraft:iron_ingot",
+    "minecraft:obsidian"
+  ]
+}

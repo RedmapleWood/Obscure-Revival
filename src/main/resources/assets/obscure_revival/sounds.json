@@ -1,0 +1,9 @@
+{
+  "ui.fletching_table.take_result": {
+    "subtitle": "subtitles.obscure_revival.fletching_table.take_result",
+    "sounds": [
+      "obscure_revival:ui/fletching_table/take_result1",
+      "obscure_revival:ui/fletching_table/take_result2"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "center": "minecraft:phantom_membrane",
+  "incompatible_with": [
+    "minecraft:prismarine_shard"
+  ]
+}

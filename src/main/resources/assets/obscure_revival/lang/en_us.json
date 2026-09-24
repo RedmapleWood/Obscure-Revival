@@ -1,0 +1,22 @@
+{
+  "enchantment.obscure_revival.keloid": "Keloid",
+  "container.obscure_revival.fletching_table": "Modify Arrow",
+  "container.obscure_revival.fletching_table.add_arrow": "Add an Arrow",
+  "container.obscure_revival.fletching_table.add_arrowhead": "Add Arrowhead Material",
+  "container.obscure_revival.fletching_table.add_shaft": "Add Shaft Material",
+  "container.obscure_revival.fletching_table.add_fletch": "Add Fletch Material",
+  "item.obscure_revival.modified_arrow": "Modified Arrow",
+  "subtitles.obscure_revival.fletching_table.take_result": "Fletching Table used",
+  "tooltip.obscure_revival.arrow_special.underwater_no_drag": "Anti-Underwater Drag",
+  "tooltip.obscure_revival.arrow_special.wind_push": "Wind Push",
+  "tooltip.obscure_revival.arrow_special.armor_pierce": "Armor Pierce",
+  "tooltip.obscure_revival.arrow_special.drag_reduce": "Drag Reduce",
+  "tooltip.obscure_revival.arrow_special.light": "Light",
+  "tooltip.obscure_revival.arrow_special.damage_increase": "Damage Increase",
+  "tooltip.obscure_revival.arrow_special.accuracy_boost": "Accuracy Boost",
+  "tooltip.obscure_revival.fletching_table.after": "After Modified %s:",
+  "tooltip.obscure_revival.fletching_table.fired_after": "When Shot:",
+  "tooltip.obscure_revival.fletching_table.slot_name.arrowhead": "Arrowhead",
+  "tooltip.obscure_revival.fletching_table.slot_name.shaft": "Shaft",
+  "tooltip.obscure_revival.fletching_table.slot_name.fletch": "Fletch"
+}
