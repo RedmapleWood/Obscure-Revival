@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "package": "redmaple.obscurerevival.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ItemStackMixin",
+    "LivingEntityMixin",
+    "VillagerEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  },
+  "client": [
+    "client.AbstractClientPlayerEntityMixin",
+    "client.HeldItemRendererMixin",
+    "client.PlayerEntityRendererMixin"
+  ]
+}

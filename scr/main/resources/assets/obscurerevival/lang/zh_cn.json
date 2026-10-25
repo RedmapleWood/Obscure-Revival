@@ -1,0 +1,18 @@
+{
+  "enchantment.obscurerevival.keloid": "战痕应激",
+  "item.obscurerevival.bamboo_bow": "竹弓",
+  "item.obscurerevival.breeze_bow": "风弓",
+  "item.obscurerevival.redstone_crossbow": "红石弩",
+  "item.obscurerevival.repeating_crossbow": "机关弩",
+  "item.obscurerevival.archery_modification_blueprint": "射艺改装图纸",
+  "item.obscurerevival.archery_modification_blueprint.applies_to_title": "可应用于：",
+  "item.obscurerevival.archery_modification_blueprint.applies_to": "射具",
+  "item.obscurerevival.archery_modification_blueprint.ingredients_title": "所需原材料：",
+  "item.obscurerevival.archery_modification_blueprint.ingredients": "棍状物或红石元件",
+  "subtitles.obscurerevival.block.fletching_table.use": "制箭台：使用",
+  "container.obscurerevival.fletching.base_slot_description": "放入射具",
+  "container.obscurerevival.fletching.additions_slot_description": "放入改装材料",
+  "container.obscurerevival.modify": "改装射具",
+  "container.obscurerevival.modify.error_tooltip": "该物品无法用此方式改装",
+  "container.obscurerevival.fletching.missing_template_tooltip": "放入射艺改装图纸"
+}

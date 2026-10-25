@@ -1,0 +1,18 @@
+{
+  "enchantment.obscurerevival.keloid": "Keloid",
+  "item.obscurerevival.bamboo_bow": "Bamboo Bow",
+  "item.obscurerevival.breeze_bow": "Breeze Bow",
+  "item.obscurerevival.redstone_crossbow": "Redstone Crossbow",
+  "item.obscurerevival.repeating_crossbow": "Repeating Crossbow",
+  "item.obscurerevival.archery_modification_blueprint": "Archery Modification Blueprint",
+  "item.obscurerevival.archery_modification_blueprint.applies_to_title": "Applies to:",
+  "item.obscurerevival.archery_modification_blueprint.applies_to": "Archery Gears",
+  "item.obscurerevival.archery_modification_blueprint.ingredients_title": "Ingredients:",
+  "item.obscurerevival.archery_modification_blueprint.ingredients": "Stick or Redstone Components",
+  "subtitles.obscurerevival.block.fletching_table.use": "Fletching Table used",
+  "container.obscurerevival.fletching.base_slot_description": "Add a Archery Gear",
+  "container.obscurerevival.fletching.additions_slot_description": "Add Modification Materials",
+  "container.obscurerevival.modify": "Modify Archery Gear",
+  "container.obscurerevival.modify.error_tooltip": "Item can't be modified this way",
+  "container.obscurerevival.fletching.missing_template_tooltip": "Add Archery Modification Blueprint"
+}

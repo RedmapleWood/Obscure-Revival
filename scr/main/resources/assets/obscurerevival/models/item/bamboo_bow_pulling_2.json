@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/bow",
+  "textures": {
+    "layer0": "obscurerevival:item/bamboo_bow_pulling_2"
+  }
+}

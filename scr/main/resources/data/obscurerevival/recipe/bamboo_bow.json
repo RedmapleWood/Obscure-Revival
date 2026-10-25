@@ -1,0 +1,7 @@
+{
+  "type": "obscurerevival:fletching_transform",
+  "blueprint": "obscurerevival:archery_modification_blueprint",
+  "base": "minecraft:bow",
+  "addition": "minecraft:bamboo",
+  "result": "obscurerevival:bamboo_bow"
+}

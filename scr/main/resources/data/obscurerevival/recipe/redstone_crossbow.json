@@ -1,0 +1,7 @@
+{
+  "type": "obscurerevival:fletching_transform",
+  "blueprint": "obscurerevival:archery_modification_blueprint",
+  "base": "minecraft:crossbow",
+  "addition": "minecraft:comparator",
+  "result": "obscurerevival:redstone_crossbow"
+}

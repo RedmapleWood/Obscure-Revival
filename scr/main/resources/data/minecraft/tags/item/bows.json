@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:bow",
+    "obscurerevival:bamboo_bow",
+    "obscurerevival:breeze_bow"
+  ]
+}

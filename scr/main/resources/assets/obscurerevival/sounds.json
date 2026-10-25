@@ -1,0 +1,9 @@
+{
+  "block.fletching_table.use": {
+    "subtitle": "subtitles.obscurerevival.block.fletching_table.use",
+    "sounds": [
+      "minecraft:block/fletching_table/fletching_table1",
+      "minecraft:block/fletching_table/fletching_table2"
+    ]
+  }
+}
